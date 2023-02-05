@@ -8,11 +8,17 @@ This project allowed me to learn and begin to understand node.js and what it can
 
 Although my understanding is still very limited I hope to make use of it for future ideas.
 
+Site not published
 
+github link: https://github.com/Erfuric/reimagined-fiesta
 
 ## Installation
 
-
+Download a copy of the Develop folder
+Open in Visual Studio Code
+Open Terminal in Develop folder location
+Type node index.js
+Answer prompts
 
 ## Credits
 
