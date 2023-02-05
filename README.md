@@ -14,11 +14,13 @@ github link: https://github.com/Erfuric/reimagined-fiesta
 
 ## Screenshot of first test
 
-<img src="assets/images/example image.PNG"/>
+![example image](https://user-images.githubusercontent.com/17615940/216811831-93a4c161-3edf-41e4-90fc-4d0e2f649949.PNG)
+
 
 ## Video demonstration
 
 
+[reimagined-fiesta demo.webm](https://user-images.githubusercontent.com/17615940/216811837-7ac2f754-d7cc-4d65-919e-37c8428ee1c1.webm)
 
 
 ## Installation
