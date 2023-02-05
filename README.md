@@ -12,6 +12,15 @@ Site not published
 
 github link: https://github.com/Erfuric/reimagined-fiesta
 
+## Screenshot of first test
+
+<img src="assets/images/example image.PNG"/>
+
+## Video demonstration
+
+
+
+
 ## Installation
 
 Download a copy of the Develop folder
